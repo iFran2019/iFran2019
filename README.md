@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ImperiorCraft | Network & Developement](https://dsc.gg/ImperiorCraft)
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, JS**
+- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, JS, JAVA**
 
 - 👯 I’m looking to collaborate on **ImperiorCraft | Network**
 
