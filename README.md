@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fran2019</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate frontend && backend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fran2019mc&label=Profile%20views&color=0e75b6&style=flat" alt="fran2019mc" /> </p>
 
@@ -9,9 +9,11 @@
 
 - 👯 I’m looking to collaborate on **ImperiorCraft | Network**
 
-- 👨‍💻 All of my projects are available at [https://personal-fran2019.ml](https://personal-fran2019.ml)
+- 👨‍💻 All of my projects are available at [https://github/iFran2019](https://github/iFran2019)
 
-- 📄 Know about my experiences [https://personal-fran2019.ml](https://personal-fran2019.ml)
+- 📫 You can reach me by adding **Fran2019#2847 on [Discord]([https://dsc.gg/ImperiorCraft](https://discord.gg/3x5Uwt4n8k))**
+
+[![Fran2019#2847]([https://discord.c99.nl/widget/theme-3/381816029426221057.png](https://discord.c99.nl/widget/theme-2/546786814736859158.png))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
