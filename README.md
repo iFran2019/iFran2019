@@ -13,7 +13,7 @@
 
 - 📫 You can reach me by adding **Fran2019#2847 on [Discord]([https://dsc.gg/ImperiorCraft](https://discord.gg/3x5Uwt4n8k))**
 
-[![Fran2019#2847]([https://discord.c99.nl/widget/theme-2/546786814736859158.png](https://discord.c99.nl/))]
+[![Alex,,#4048](https://discord.c99.nl/widget/theme-3/381816029426221057.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
