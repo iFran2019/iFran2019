@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fran2019mc&label=Profile%20views&color=0e75b6&style=flat" alt="fran2019mc" /> </p>
 
-- 🔭 I’m currently working on [ImperiorCraft | Network & Developement](https://dsc.gg/ImperiorCraft)
+- 🔭 I’m currently working on [ImperiorCraft | Network & Developement](discord.imperiorcraft.net)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, JS, JAVA**
 
 - 👯 I’m looking to collaborate on **ImperiorCraft | Network**
 
 - 👨‍💻 All of my projects are available at [https://github/iFran2019](https://github/iFran2019)
-
-- 📫 You can reach me by adding **Fran2019#2847 on [Discord]([https://dsc.gg/ImperiorCraft](https://discord.gg/3x5Uwt4n8k))**
 
 [![Fran2019#2847](https://discord.c99.nl/widget/theme-3/546786814736859158.png)](https://discord.c99.nl/)
 
