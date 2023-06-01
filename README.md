@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fran2019mc&label=Profile%20views&color=0e75b6&style=flat" alt="fran2019mc" /> </p>
 
-- 🔭 I’m currently working on [ImperiorCraft | Network & Developement](discord.imperiorcraft.net)
+- 🔭 I’m currently working on [ImperiorCraft | Network & Developement](https://discord.imperiorcraft.net)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, JS, JAVA**
 
