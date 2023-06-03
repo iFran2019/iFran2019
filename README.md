@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fran2019</h1>
 <h3 align="center">A passionate frontend && backend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fran2019mc&label=Profile%20views&color=0e75b6&style=flat" alt="fran2019mc" /> </p> [![wakatime](https://wakatime.com/badge/user/61c19b38-26c1-48b7-afc3-4202000dae6c.svg)](https://wakatime.com/@61c19b38-26c1-48b7-afc3-4202000dae6c)
-
 - 🔭 I’m currently working on [ImperiorCraft | Network & Developement](https://discord.imperiorcraft.net)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, JS, JAVA**
