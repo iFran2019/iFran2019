@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifran2019&label=Profile%20views&color=0e75b6&style=flat" alt="ifran2019" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifran2019" alt="ifran2019" /></a> </p>
-
 - 🔭 I’m currently working on [ImperiorCraft | Network & Developement](https://discord.imperiorcraft.net)
 
 - 👯 I’m looking to collaborate on [Imperior | Development](https://github.com/ImperiorDevelopment)
@@ -26,6 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifran2019&show_icons=true&locale=en&layout=compact" alt="ifran2019" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iFran2019&layout=compact" alt="ifran2019" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifran2019&" alt="ifran2019" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifran2019" alt="ifran2019" /></a> </p>
 
 <h3 align="left">Working in Progress:</h3>
 
