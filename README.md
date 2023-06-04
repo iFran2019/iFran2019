@@ -24,6 +24,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFran2019)](https://github.com/iFran2019/iFran2019)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iFran2019)](https://github.com/iFran2019/iFran2019)
 
+<h3 align="left">Imperior Development Stats:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImperiorDevelopment)](https://github.com/ImperiorDevelopment)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImperiorDevelopment)](https://github.com/ImperiorDevelopment)
+
 <h3 align="left">Working in Progress:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImperiorDevelopment&repo=Freerank)](https://github.com/ImperiorDevelopment/Freerank)
