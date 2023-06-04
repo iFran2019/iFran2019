@@ -22,3 +22,7 @@
 <h3 align="left">Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFran2019)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Working in Progress:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImperiorDevelopment&repo=Freerank)](https://github.com/anuraghazra/github-readme-stats)
