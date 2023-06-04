@@ -21,6 +21,7 @@
 
 <h3 align="left">Stats:</h3>
 
+<p><align="left" src="https://github-readme-stats.vercel.app/api?username=ifran2019&show_icons=true&theme=radical" alt="ifran2019"/></p>
 <p><align="left" src="https://github-readme-stats.vercel.app/api?username=ifran2019&show_icons=true&locale=en&layout=compact" alt="ifran2019"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iFran2019&layout=compact" alt="ifran2019" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifran2019&" alt="ifran2019" /></p>
