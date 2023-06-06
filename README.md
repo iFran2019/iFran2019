@@ -22,6 +22,7 @@
 <h3 align="left">Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifran2019&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iFran2019&layout=pie)](https://github.com/iFran2019)
 <p><align="left" src="https://github-readme-stats.vercel.app/api?username=ifran2019&show_icons=true&locale=en&layout=compact&theme=radical" alt="ifran2019"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iFran2019&layout=compact" alt="ifran2019" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifran2019&" alt="ifran2019" /></p>
