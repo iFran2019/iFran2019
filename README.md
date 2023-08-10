@@ -28,5 +28,4 @@
 
 <h3 align="left">Working in Progress:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iFran2019&repo=WebExecutable)](https://github.com/ImperiorDevelopment/WebExecutable)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImperiorDevelopment&repo=Freerank)](https://github.com/ImperiorDevelopment/Freerank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iFran2019&repo=WebExecutable)](https://github.com/iFran2019/WebExecutable)
