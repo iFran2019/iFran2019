@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fran2019 | Developement](https://github.com/Fran2019-Development)
 
-- 👯 I’m looking to collaborate on [SigmaNoes | Hosting](https://dash.sigmanodes.com)
+- 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iFran2019](https://github.com/iFran2019?tab=repositories)
 
