@@ -28,4 +28,4 @@
 
 <h3 align="left">Working in Progress:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iFran2019&repo=WebExecutable)](https://github.com/iFran2019/iFran2019)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iFran2019&repo=iFran2019)](https://github.com/iFran2019/iFran2019)
