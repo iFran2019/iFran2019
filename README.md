@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com) (Temporal Down)
 
-- 👨‍💻 All of my projects are available at [https://github.com/iFran2019](https://github.com/iFran2019?tab=repositories)
+- 👨‍💻 All of my public projects are available at [https://github.com/iFran2019](https://github.com/iFran2019?tab=repositories)
 
 [![Fran2019#2847](https://discord.c99.nl/widget/theme-3/546786814736859158.png)](https://discord.c99.nl/)
 
