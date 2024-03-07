@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifran2019&label=Profile%20views&color=0e75b6&style=flat" alt="ifran2019" /> </p>
 
-- 🔭 I’m currently working on [Fran2019 | Developement](https://github.com/Fran2019-Development)
+- 🔭 I’m currently working on [Ikari | Developement](https://discord.gg/RCWNQPjHZq)
 
 - 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com)
 
