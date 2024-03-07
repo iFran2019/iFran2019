@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ikari | Developement](https://discord.gg/RCWNQPjHZq)
 
-- 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com)
+- 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com) (Temporal Down)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iFran2019](https://github.com/iFran2019?tab=repositories)
 
