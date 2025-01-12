@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/iFran2019](https://github.com/iFran2019?tab=repositories)
 
-[![Fran2019#2847](https://discord.c99.nl/widget/theme-3/546786814736859158.png)](https://discord.c99.nl/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/546786814736859158)](https://discord.com/users/546786814736859158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
