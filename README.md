@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifran2019&label=Profile%20views&color=0e75b6&style=flat" alt="ifran2019" /> </p>
 <a href="https://wakatime.com/@61c19b38-26c1-48b7-afc3-4202000dae6c"><img src="https://wakatime.com/badge/user/61c19b38-26c1-48b7-afc3-4202000dae6c.svg" alt="Total time coded since Jun 3 2023" /></a>
 
-- 🔭 I’m currently working on [Ikari | Developement](https://discord.gg/RCWNQPjHZq)
+- 🔭 I’m currently working on [SSomar | Developement](https://discord.gg/xj9SzzWGN8)
 
 - 👯 I’m looking to collaborate on [SigmaNodes | Hosting](https://dash.sigmanodes.com) (Temporal Down)
 
